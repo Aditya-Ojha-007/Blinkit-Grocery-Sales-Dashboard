@@ -10,3 +10,8 @@ The dashboard is designed to help stakeholders answer questions like:
 
 ## DataSet Used
  - <a href="https://github.com/Aditya-Ojha-007/Blinkit-Grocery-Sales-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">DataSet</a>
+
+ ## DashBoard
+ <img width="1361" height="707" alt="DashBoard_Image" src="https://github.com/user-attachments/assets/4797b9b5-6eb6-45e3-a761-b88ad2a28f07" />
+ 
+
