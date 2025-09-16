@@ -1,1 +1,1 @@
-# Blinkit-Grocery-Sales-Dashboard
+# Blinkit Sales Dashboard
